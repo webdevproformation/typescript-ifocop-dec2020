@@ -72,5 +72,39 @@
 // nodejs ??? 
 // il faut au préalable installer un logiciel nodejs 
 
-// 
+// https://nodejs.org/fr/
 
+// cliquer sur la version 14.15.1 (windows) 
+
+// une fois node js installé redémarrer visual studio 
+
+// un fois redémarrer => lancer un terminal
+
+// node --version 
+// node -v
+
+// outil qui permet executé du javascript 
+
+// npm --version
+// npm -v
+
+// lorsque vous installez node dans ordinateur
+// vous installez simultanément un deuxième logiciel npm
+// npm node package manager 
+// équivalent outil qui permet de télécharger de librairie javacript 
+// depuis le site internet npmjs.com 
+
+// npmjs.com  => site qui est comme github (spécialisé dans le javascript)
+// jquery // lodash // express 
+// typescript : https://www.npmjs.com/package/typescript
+
+// npm install --global typescript
+// npm i -g typescript
+
+// mac os => sudo npm i -g typescript
+
+// tsc --version
+// tsc -v
+
+// créer notre premier script typescript 
+// créer le fichier 02-hello.ts dans le dossier jour1 
