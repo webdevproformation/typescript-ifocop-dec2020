@@ -1,0 +1,24 @@
+Typescript  => Angular 
+
+-------------------------
+
+support de cours Typescript :
+
+https://formation.webdevpro.net/typescript
+
+login : typescript
+mdp : typescript
+
+2 jours Typescript 
+3 jours + 2 jours Angular 
+
+-------------------------
+
+créer sur le bureau de votre ordinateur
+un dossier Typescript 
+dans ce dossier créer un sous dossier => jour1
+
+-------------------------
+
+démarrer votre IDE préféré => l'ouvrir dans le dossier Typescript
+
