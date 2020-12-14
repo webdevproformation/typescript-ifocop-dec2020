@@ -30,7 +30,6 @@ c( b , "hello" ); //  ["a", "b","c" , "20" , "hello"]
 
 
 // créer un fichier 03-exo.ts 
-
 /**
  * dans ce fichier créer une variable prenom = "Victor" 
  * dans ce fichier créer une variable nom = "Hugo" 
