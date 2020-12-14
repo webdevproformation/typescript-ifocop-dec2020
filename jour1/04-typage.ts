@@ -141,4 +141,3 @@ ce fichier contient les variables suivantes :
     {id: 2 , nom : "poire" , quantite : 3},
     {id: 3 , nom : "ananas" , quantite : 2},
 ];*/
-*/
