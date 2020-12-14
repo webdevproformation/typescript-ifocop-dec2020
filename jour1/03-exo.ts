@@ -16,3 +16,5 @@ descriptionComplete( prenom ,  nom );
 // node 03-exo.js
 
 // rdv dans 15 min => 10h51 bon café ! 
+
+// créer un nouveau fichier 04-typage.ts 
