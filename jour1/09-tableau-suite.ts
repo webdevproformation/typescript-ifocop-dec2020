@@ -121,10 +121,45 @@ let rrrr = finalTableau.filter( function( item ){
 } )
 console.log(rrrr);
 
+// Kelig => ES 5 
+// ajoutée dans la version version ES9 de javascript 
+// changer manière de compiler le ts => js 
+// tsc 09-tableau-suite.ts --target es9
 
-
-
+// ?? pourquoi utiliser cette méthode ???
 // a.flat( )
+
+// tableau qui contient des tableaux 
+
+let informations = [ 
+    [ 1, 2 ],
+    [ 3, 4 ]
+];
+
+// est ce que dans le tableau information est ce qu'il y a un le chiffre 3 ??? 
+
+// 3 fonctions qui permettent de rechercher dans un tableau 
+// indexOf()
+// find()
+// lastIndexOf() 
+// la limite de ces trois fonctions ne sont pas récursives 
+// le premier élément => [1, 2] === 3 faux 
+// le dexuième élément => [ 3, 4 ] === 3 faux 
+
+// d'applatir un tableau 
+
+let informationsTransforme = [ 
+     1, 2 ,
+     3, 4 
+];// transformer les tableaux en item + concaténer 
+
+/* informations.flat().find( function(item ){
+    return item === 3 ;
+})
+ */
+
+// 10-tableau-es9.ts 
+
 
 
 
