@@ -47,11 +47,11 @@ let information = e( 20 , "euros")
 // dans les objets littéraux => méthodes 
 // 3 manières de créer des méthodes = fonctions dans un objet 
 
-
 export let f = {
     nom : "Javascript",
     duree : 5 ,
     unite : "jours",
+    liste : [ "angular" , "jquery" , "react" ],
     description : function( param : string) :number  {
         return param.length ; 
     },
@@ -64,7 +64,7 @@ export let f = {
         }else {
             return ;
         }
-     }
+    }
 }
 
 console.log(f.description("bonjour")) // chiffre => nombre de caractères du mot bonjour 
@@ -75,3 +75,35 @@ console.log(f.description3(true)) ;
 
 // tsc 06-function.ts
 // executer mon javascript node 06-function.js
+
+// bon appétit => rdv 13h32 
+
+// cas pratique => créer le fichier 07-exo.ts 
+
+/*
+ ce fichier contient le code suivant :
+
+ function qui s'appelle salutation 
+
+ cette fonction dispose de deux paramètres 
+    formation string
+    matieres tableau de chaine de caractères
+
+cette fonction contient les instructions suivantes :
+
+    concaténer le contenu du paramètre formation et des items dans le parmètre matieres dans la phrase suivante 
+
+
+    je suis une formation "variable" dans la quelle je vais suivre les matières suivantes item1, item2 , item3s
+
+    la fonction retourne une variable de type string 
+
+    utiliser la fonction salutation avec les paramètres suivants :
+
+    "DWWM" , ["js", "angular","Typescript"]
+
+    "DIW" , [ { nom : "js" } , {"nom" : "Angular"}]
+
+
+
+*/
