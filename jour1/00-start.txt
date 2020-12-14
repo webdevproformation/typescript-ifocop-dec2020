@@ -22,3 +22,21 @@ dans ce dossier créer un sous dossier => jour1
 
 démarrer votre IDE préféré => l'ouvrir dans le dossier Typescript
 
+-------------------------
+
+repository => dès que j'écris une ligne => partage via github 
+
+git init
+git add *
+git commit -m "start"
+git remote add origin https://github.com/webdevproformation/typescript-ifocop-dec2020.git
+
+
+https://github.com/webdevproformation/typescript-ifocop-dec2020
+
+
+-------------------- 
+
+suivre la trame du cours => créer un nouveau fichier 01-presentation.ts 
+
+=> travaille en typescript => créer des fichiers l'extension .ts 
