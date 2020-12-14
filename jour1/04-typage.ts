@@ -92,3 +92,32 @@ let o : PersonInterface  = {
     isInformaticien : true
 }
 
+// tableau qui contiennent des objets => collection 
+// JSON Javascript Object Notation 
+
+let p : Array<{}> = [  // 1ère possibilité 
+    { id : 1 , nom : "Alain"  },
+    { id : 2 , nom : "Béatrice "}
+];
+
+let q : Array<Object> = [  // 2ème possibilité 
+    { id : 1 , nom : "Alain"  },
+    { id : 2 , nom : "Béatrice "}
+];
+
+let r : Array<{id : number , nom : string }>= [  // 3ème possibilité 
+    { id : 1 , nom : "Alain"  },
+    { id : 2 , nom : "Béatrice "}
+];
+
+// via un interface 
+
+interface EtudiantInterface{
+    id : number ;
+    nom : string ;
+}
+
+let s : Array< EtudiantInterface > = [  // 4ème possibilité 
+    { id : 1 , nom : "Alain"  },
+    { id : 2 , nom : "Béatrice "}
+];
