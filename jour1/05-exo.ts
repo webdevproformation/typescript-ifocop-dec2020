@@ -55,8 +55,16 @@ let liste5 : Array<ProduitInterface> = [
     {id: 3 , nom : "ananas" , quantite : 2},
 ];
 
-let liste5Prim : ProduitInterface[] = [
+export let liste5Prim : ProduitInterface[] = [
     {id: 1 , nom : "pêche" , quantite : 4},
     {id: 2 , nom : "poire" , quantite : 3},
     {id: 3 , nom : "ananas" , quantite : 2},
 ];
+
+// transtyper en js de base 
+// cls (windows) clear (macOS)
+// tsc 05-exo.ts 
+// lorsque vous écrivez en type script => vous n'êtes pas amené à écrire vous même le fichier js => obtenez le fichier .js 
+// il ne faut pas modifier le fichier .js à la main 
+
+// 06-function.ts
