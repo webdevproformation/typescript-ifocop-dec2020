@@ -21,3 +21,5 @@ console.log(Math.PI) ; // en PHP Math::Constant // PDO::FETCH_OBJ
 console.log(Math.E) ;
 // avoir une chiffre tiré au hasard entre 0 et 1
 console.log(Math.random())
+
+// 05-heritage.ts
