@@ -24,7 +24,7 @@
  * je suis la page "nom" réalisée par "auteur" créée le "dt-creation"
  * 
  * 3 initialiser la variable p grâce à la class PageAccueil avec la 
- * "Mon SUper Site" "Moi" 
+ * "Mon Super Site" "Moi" 
  * 
  * 4 initialiser la valeur dt_creation à aujourd'hui 
  * 
