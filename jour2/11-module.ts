@@ -22,5 +22,6 @@ let donnee : DataInterface = {
 }
 
 // système de module 
+// créer deux fichiers 12-module.ts 12-lib.ts
 
 
