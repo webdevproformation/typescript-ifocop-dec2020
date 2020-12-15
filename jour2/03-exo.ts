@@ -41,3 +41,5 @@ console.log(m.contenu)
 console.log(m.getHtml());
 // cls
 // tsc 03-exo.ts --target es5 && node 03-exo.js
+
+// 04-static.ts
