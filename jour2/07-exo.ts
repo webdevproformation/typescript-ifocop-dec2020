@@ -60,7 +60,7 @@ export class A {
     }
 }  
 
-let b : number = 20 ;
+/* let b : number = 20 ;
 
 function b(){
 
@@ -70,4 +70,6 @@ console.log(b)
 
 $b = "eofhezpohzeo"
 
-function b(){}
+function b(){} */
+
+// 08-heritage-contrainte.ts 
