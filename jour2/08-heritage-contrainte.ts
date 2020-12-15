@@ -71,3 +71,25 @@ class SQLIte extends BDD{
     // $stdt = $connexion->query("SELECT * FROM table")
     // retour []
 // }
+
+// cas pratique 
+
+/*
+créer le fichier 09-exo.ts 
+ce fichier contient le code suivant :
+
+abstract class Music{
+  protected instrument: string;
+  abstract makeSound(): string;
+
+  play(): string{
+    return "play music";
+  }
+}
+
+1 créer une class Violon qui va hériter de la class Music (attention aux méthodes abstraites du parent)
+
+2 créer une instance de la class Violon et utiliser les méthodes makeSound et play
+3 transformer le fichier .ts en .js 
+
+*/ 
