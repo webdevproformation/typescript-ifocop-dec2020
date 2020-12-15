@@ -8,3 +8,6 @@ console.log(s.random());
 console.log(s.random());
 
 // tsc 13-exo.ts && node 13-exo.js
+
+
+// 14-decorateur.ts 
