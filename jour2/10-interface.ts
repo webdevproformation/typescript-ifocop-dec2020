@@ -58,3 +58,4 @@ abstract class InformationInterface{
 // décorateur 
 
  */
+// créer deux fichiers 11-module.ts et 11-lib.ts 
