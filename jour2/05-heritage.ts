@@ -36,3 +36,6 @@ b.valeur = 2021 ;
 b.description = "une description";
 
 // pause déjeuner => rdv dans 1 heure 13h33
+
+
+// créer le fichir 06-heritage-suite.ts 
