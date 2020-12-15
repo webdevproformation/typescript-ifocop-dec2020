@@ -64,4 +64,15 @@ f = { // objet litteral
   objectif: [Function]
   detail : [Function]
 }
+pause café => 10h47 
+
+constructeur 
+this
+private / public / protected 
+getter setter 
+static 
+héritage extends 
+abstract 
+implements 
+
 */
