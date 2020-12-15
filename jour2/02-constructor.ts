@@ -77,7 +77,6 @@ class D{
         return this._nom ;
     }
 }
-
 let d = new D( "Paris" )
 
 // je veux récupérer la contenu dans l'attribut nom 
@@ -91,3 +90,19 @@ console.log( d.nom ) // Lyon
 
 // tsc 02-constructor.ts && node 02-constructor.js
 // tsc 02-constructor.ts --target es5 && node 02-constructor.js
+
+// créer un nouveau fichier 03-exo.ts 
+// ce fichier contient une class Menu 
+// ce menu contient 2 attributs privés 
+// logo : chaine de caractère
+// contenu : tableau de chaine caractères 
+
+// 1 pouvez vous créer le constructeur ainsi que les setters et getter de ces deux attributs 
+
+// 2 créer une instance de Menu => m 
+// avec les valeurs suivantes "logo.jpg"
+// ["Accueil","Présentation", "Blog"]
+
+// 3 afficher le contenu de la propriété contenu de l'objet m dans la console
+
+// 4 compiler ce fichier ts en js et exécuter dans le terminal de visual studio
