@@ -70,10 +70,10 @@ ajouter([data] ,
 // tableau1 
 // tableau2
 
-// la fonction va concatener le tableau 1 et le tableau 2 
+// la fonction va concatener le tableau1 et le tableau2 
 // retourner le résultat de la concaténation des deux tableaux 
 
-// essayer cette fonction avec les valeurs suivantes 
+// Utiliser cette fonction avec les valeurs suivantes 
 
 //["a","b"] , ["c","d"]
 //[1,2] , [3,4,5]

@@ -1,4 +1,3 @@
-
 let aggregate  = function <T> ( tableau1 : Array<T> , tableau2 : Array<T> ) : Array<T> {
 
     // plusieurs manières de addition deux tableaux 
