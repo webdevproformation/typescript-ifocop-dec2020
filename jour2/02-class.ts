@@ -64,7 +64,7 @@ f = { // objet litteral
   objectif: [Function]
   detail : [Function]
 }
-pause café => 10h47 
+pause café => 10h49 
 
 constructeur 
 this
@@ -76,3 +76,5 @@ abstract
 implements 
 
 */
+
+// créer un nouveau fichier 02-constructor.ts
