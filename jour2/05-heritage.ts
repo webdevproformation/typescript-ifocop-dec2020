@@ -33,4 +33,6 @@ class B extends A {
 
 let b = new A ( 2020 );
 b.valeur = 2021 ;
-b.description = "une description"
+b.description = "une description";
+
+// pause déjeuner => rdv dans 1 heure 13h33
