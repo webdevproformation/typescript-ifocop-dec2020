@@ -22,7 +22,6 @@ function Majuscule( tableau : Array<string>  ) : Array<string>{
     });
     return resultat; 
 }
-
 let r = Majuscule(  ["alain","pierre","charles"] );
 console.log(r) ;
 // cd ..
@@ -30,3 +29,4 @@ console.log(r) ;
 // cls / clear
 // tsc 01-exo.ts && node 01-exo.js
 
+// 02-class.ts 
